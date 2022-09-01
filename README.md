@@ -8,7 +8,7 @@ Build a artificial inteligence capable of solve the n_queen puzzle game
 
 ## How to run
 
-Create a virtual environment, use ```make install-dependencies``` command to install the python dependencies, then use ```make run <n>``` to run the program
+Create a virtual environment, use ```make install-dependencies``` command to install the python dependencies, then use ```make run n=<n>``` to run the program
 
 ## Board
 
